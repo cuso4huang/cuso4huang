@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm [CuSO4 Huang] 👋</h1>
+<h1 align="center">Hi, I'm CuSO4 Huang 👋</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Language-Rust-blue?style=flat&logo=rust">
