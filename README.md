@@ -13,7 +13,7 @@
 ---
 
 🧰 Tech Toolbox  
-![Rust](https://img.shields.io/badge/-Rust-000?&logo=Rust)
 ![Java](https://img.shields.io/badge/-Java-007396?&logo=Java)
+![Rust](https://img.shields.io/badge/-Rust-000?&logo=Rust)
 ![Python](https://img.shields.io/badge/-Python-3776AB?&logo=python)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?&logo=postgresql)
